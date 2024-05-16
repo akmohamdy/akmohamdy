@@ -5,38 +5,28 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=System%20Admin%20|%20DevOps%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a software engineer | Full-stack web devleoper.
-- 🌱 I'm constantly learning and exploring new technologies to improve my skills..
-- 💬 Ask me about my experience with PHP, Laravel, React JS, Server Management, Active Directory, Linux Server, and cybersecurity knowledge.
-- ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged, as well as gaming Challenges 😄.
+- 🌱 I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with PHP, Laravel, Javascript, React JS, and software engineering knowledge.
+- 📫 How to reach me: You can drop me an email at akmohamdy@gmail.com.
+- ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged 😄.
 
 
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-el-mahdy-007" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elmahdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/ahmed-el-mahdy-007](https://www.linkedin.com/in/ahmed-mohamdy/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Elmahdy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![CircleCI](https://img.shields.io/circleci/build/github/Ahmed%20Elmahdy/CloudFormation-Project2?logo=CircleCi&logoColor=rgb&label=CircleCi&link=https%3A%2F%2Fgithub.com%2Fciscosky%2FCloudFormation-Project2
-)
-![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)&nbsp;
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
