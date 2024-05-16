@@ -1,17 +1,20 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Khaled's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <br>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Software+Engineer;Full-Stack+Web+Devleoper" alt="Typing SVG" /></a>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=System%20Admin%20|%20DevOps%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+
 
 - 🏢 I'm a software engineer | Full-stack web devleoper.
 - 🌱 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, Javascript, React JS, and software engineering knowledge.
+- 🌌 Beyond the Code:
+I don't just write code; I engineer solutions. Every line I write is a building block in the bridge to tomorrow's digital world. I thrive on challenging the status quo and pushing the limits of what's possible.
 - 📫 How to reach me: You can drop me an email at akmohamdy@gmail.com.
 - ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged 😄.
 
