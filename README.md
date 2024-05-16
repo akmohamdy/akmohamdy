@@ -13,26 +13,24 @@
 - 🏢 I'm a software engineer | Full-stack web devleoper.
 - 🌱 I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel, Javascript, React JS, and software engineering knowledge.
-- 🌌 Beyond the Code:
-I don't just write code; I engineer solutions. Every line I write is a building block in the bridge to tomorrow's digital world. I thrive on challenging the status quo and pushing the limits of what's possible.
-- 📫 How to reach me: You can drop me an email at akmohamdy@gmail.com.
+- 🌌 Beyond coding, I engineer innovative solutions. Each line of code I write is a building block for the future of the digital world. I thrive on challenging norms and pushing the boundaries of possibility.
 - ⚡ Fun Fact: I'm a Learner challenger and I like to get challenged 😄.
 
 
 
 ### Connect with Me :
 
-<a href="[https://linkedin.com/in/ahmed-el-mahdy-007](https://www.linkedin.com/in/ahmed-mohamdy/)" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Khaled-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-el-shiref-00b04b257/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:omarabdou2002@gmail.com)](mailto:omarabdou2002@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/whatsappphonenumber/?text=urlencodedtext))
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/akmohamdy/))
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCn1vQ0aZ-3EIr97AeFZvV3g)
+### Languages and Tools
 
-
-### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+- Programming Languages: ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+- Frameworks and Libraries: ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
+- Tools and Platforms: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 
 
